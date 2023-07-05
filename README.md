@@ -10,6 +10,9 @@ Hi there 👋, my name is Lil Dead
 ![](https://github-readme-streak-stats.herokuapp.com/?user=L1LDE4D&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L1LDE4D&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=L1LDE4D&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -23,4 +26,3 @@ Hi there 👋, my name is Lil Dead
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/LilDead22) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
